@@ -9,6 +9,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CountDownLatch;
 import java.util.stream.IntStream;
 
+import com.padroesprojeto.singleton.versions.EagerSingleton;
+import com.padroesprojeto.singleton.versions.SimpleSingleton;
+import com.padroesprojeto.singleton.versions.SynchronizedSingleton;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

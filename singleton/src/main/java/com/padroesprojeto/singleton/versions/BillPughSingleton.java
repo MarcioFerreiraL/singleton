@@ -1,4 +1,4 @@
-package com.padroesprojeto.singleton;
+package com.padroesprojeto.singleton.versions;
 // tecnica Bill Pugh, utiliza uma classe interna
 public class BillPughSingleton {
     private BillPughSingleton() {

@@ -1,4 +1,4 @@
-package com.padroesprojeto.singleton;
+package com.padroesprojeto.singleton.versions;
 // inialização antecipada
 public class EagerSingleton {
     private static final EagerSingleton instance = new EagerSingleton();

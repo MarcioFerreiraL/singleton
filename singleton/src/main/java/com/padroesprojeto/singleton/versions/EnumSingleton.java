@@ -1,4 +1,4 @@
-package com.padroesprojeto.singleton;
+package com.padroesprojeto.singleton.versions;
 
 public enum EnumSingleton {
     INSTANCE;

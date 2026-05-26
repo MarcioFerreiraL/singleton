@@ -1,4 +1,4 @@
-package com.padroesprojeto.singleton;
+package com.padroesprojeto.singleton.versions;
 
 public class Singleton {
     private static volatile Singleton instance;  
